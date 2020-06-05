@@ -1,2 +1,0 @@
-# practicasReact
-Created with CodeSandbox
